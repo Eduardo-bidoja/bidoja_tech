@@ -1,0 +1,12 @@
+{
+  "semanas": [
+    {
+      "titulo": "Week 1",
+      "conteudo": "Learned Java fundamentals, including object-oriented programming and class structure."
+    },
+    {
+      "titulo": "Week 2",
+      "conteudo": "Explored the basics of C# and built a simple API with ASP.NET."
+    }
+  ]
+}
