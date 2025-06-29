@@ -3,11 +3,11 @@
     {
       "titulo": "fisrt week",
       "conteudo": "As I mentioned in my bio, I started my career in a telemarketing job. After almost a year, I got a call from my old boss who asked me, 'Do you like IT?'. That moment sparked my transition into technology."
-    }
+    },
     {
       "titulo": "Second Week",
       "conteudo": "I'm always looking to improve, as you may have seen, I always like to learn and discover new things, so I set up this project where I will talk about everything I learned during a week.."
-    }
+    },
      {
       "titulo": ("Third Week"),
       "conteudo": Recently, I developed a landing page in JavaScript as a way to refresh and strengthen my skills in the area. The idea came from observing a recurring need faced by a local company I’m closely connected with — they offer courses and operate in the solar energy sector but struggle to acquire qualified leads for their sales.
@@ -53,6 +53,6 @@ ________________________________________
  Follow for more web projects
 
 "
-    }
+    },
   ]
 }
