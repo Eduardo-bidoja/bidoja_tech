@@ -1,4 +1,4 @@
-fetch('aprendizados.json')
+fetch('updateaprendizados.json')
   .then(response => response.json())
   .then(data => {
     const container = document.getElementById('aprendizados');
