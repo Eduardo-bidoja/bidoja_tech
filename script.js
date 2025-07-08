@@ -5,7 +5,16 @@ fetch('updateaprendizados.json')
     data.week.forEach(item => {
       const div = document.createElement('div');
       div.className = 'aprendizado';
-      div.innerHTML = `<h3>${item.titulo}</h3><p>${item.conteudo}</p>`;
+
+      // Se houver link, adiciona
+      const linkHTML = item.link ? `<p><a href="${item.link}" target="_blank">${item.link}</a></p>` : "";
+
+      div.innerHTML = `
+        <h3>${item.titulo}</h3>
+        <p>${item.conteudo}</p>
+        ${linkHTML}
+      `;
+
       container.appendChild(div);
     });
   });
