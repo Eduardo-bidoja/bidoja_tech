@@ -20,8 +20,8 @@
     },
     {
       "titulo": "Fifth Week",
-      "conteudo": "Fifth week this last week was a bit intense, I found myself stuck in some problems, I had to learn how to use the back end, not that I don't like it, but I prefer the visual part of things, so it was a bit difficult, especially the part where I had to connect Python with MySQL, which would apparently be easy, but from what I was studying, there are different ways to do it and they can work, so I got confused a few times and found myself almost giving up, but as a Brazilian saying goes, "never give up.",
-      
-    },
+      "conteudo": "Yesterday, Monday the 7th, Michel challenged me and I only had 15 minutes to do a small project. I'll summarize a little about what it was. I had to create an application that would calculate payment installments according to some specific rules. Well, I had 15 minutes to do it, but I had all the time I needed to think about how to do it. I thought: (This guy is crazy. This is impossible.) After almost 7 hours, I stopped and analyzed what he told me during our conversation, that it doesn't matter how you do it, as long as you show that you know what you're doing and how you're doing it. I decided to use Gemini because I already know the platform and how to use it. I finally got it. Hahaha. After almost 7 hours thinking about how to do it, I got it in less than 10 minutes. Here is the final project of the challenge, but I still think he's a little crazy. Hahaha, but I understood his proposal. What he wanted to convey was that it doesn't matter how you get there, as long as you know what you're doing and how you're doing it. This is the most important thing.",
+      "link": "https://github.com/Eduardo-bidoja/Payment-Splitter-Project-Requirements"
+    }
   ]
 }
