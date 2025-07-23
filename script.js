@@ -24,3 +24,4 @@ fetch('updateaprendizados.json')
   .catch(error => {
     console.error("❌ Erro ao carregar JSON:", error); // 👈 E ISSO TAMBÉM
   });
+// só para nao descarregar e sair daqui
